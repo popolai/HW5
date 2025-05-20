@@ -1,6 +1,6 @@
 using System;
 
-namespace 10-3
+namespace CH10
 {
     public interface IPrice
     {
