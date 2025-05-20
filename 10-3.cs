@@ -1,6 +1,6 @@
 using System;
 
-namespace IPriceCarApp
+namespace 10-3
 {
     public interface IPrice
     {
