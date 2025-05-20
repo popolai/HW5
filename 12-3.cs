@@ -1,6 +1,6 @@
 using System;
 
-namespace UnitConversionApp
+namespace CH12
 {
     class Program
     {
